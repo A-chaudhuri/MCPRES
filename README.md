@@ -27,7 +27,9 @@ Requirements
 
 Python 3.6
 SQL Lite
-To run the program execute app.py
+
+**To run the program execute app.py
+**
 
 File description
 
