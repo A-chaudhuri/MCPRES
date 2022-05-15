@@ -1,0 +1,230 @@
+"('zero',)","('z',)",1.0
+"('z',)","('zero',)",1.0
+"('zf',)","('zhang',)",1.0
+"('zhang',)","('zf',)",1.0
+"('wiq',)","('women',)",1.0
+"('women',)","('wiq',)",1.0
+"('wiq',)","('worcester',)",1.0
+"('worcester',)","('wiq',)",1.0
+"('wiq',)","('worsening',)",1.0
+"('worsening',)","('wiq',)",1.0
+"('z',)","('zhang',)",1.0
+"('zhang',)","('z',)",1.0
+"('worcester',)","('women',)",1.0
+"('women',)","('worcester',)",1.0
+"('zf',)","('z',)",1.0
+"('z',)","('zf',)",1.0
+"('worsening',)","('women',)",1.0
+"('women',)","('worsening',)",1.0
+"('zero',)","('zhang',)",1.0
+"('zhang',)","('zero',)",1.0
+"('worsening',)","('worcester',)",1.0
+"('worcester',)","('worsening',)",1.0
+"('yet',)","('worcester',)",1.0
+"('worcester',)","('yet',)",1.0
+"('yet',)","('worsening',)",1.0
+"('worsening',)","('yet',)",1.0
+"('yet',)","('women',)",1.0
+"('women',)","('yet',)",1.0
+"('zero',)","('zf',)",1.0
+"('zf',)","('zero',)",1.0
+"('wiq',)","('yet',)",1.0
+"('yet',)","('wiq',)",1.0
+"('worsening',)","('yet', 'women')",1.0
+"('women',)","('worsening', 'yet')",1.0
+"('yet',)","('worsening', 'women')",1.0
+"('worsening', 'women')","('yet',)",1.0
+"('worsening', 'yet')","('women',)",1.0
+"('yet', 'women')","('worsening',)",1.0
+"('zero',)","('z', 'zhang')",1.0
+"('z',)","('zero', 'zhang')",1.0
+"('zhang',)","('zero', 'z')",1.0
+"('zero', 'z')","('zhang',)",1.0
+"('zero', 'zhang')","('z',)",1.0
+"('z', 'zhang')","('zero',)",1.0
+"('worsening',)","('worcester', 'women')",1.0
+"('worcester',)","('worsening', 'women')",1.0
+"('women',)","('worsening', 'worcester')",1.0
+"('worsening', 'worcester')","('women',)",1.0
+"('worsening', 'women')","('worcester',)",1.0
+"('worcester', 'women')","('worsening',)",1.0
+"('yet',)","('worcester', 'women')",1.0
+"('worcester',)","('yet', 'women')",1.0
+"('women',)","('yet', 'worcester')",1.0
+"('yet', 'worcester')","('women',)",1.0
+"('yet', 'women')","('worcester',)",1.0
+"('worcester', 'women')","('yet',)",1.0
+"('wiq',)","('yet', 'women')",1.0
+"('women',)","('wiq', 'yet')",1.0
+"('yet',)","('wiq', 'women')",1.0
+"('wiq', 'women')","('yet',)",1.0
+"('wiq', 'yet')","('women',)",1.0
+"('yet', 'women')","('wiq',)",1.0
+"('zero',)","('zf', 'zhang')",1.0
+"('zf',)","('zero', 'zhang')",1.0
+"('zhang',)","('zero', 'zf')",1.0
+"('zero', 'zf')","('zhang',)",1.0
+"('zero', 'zhang')","('zf',)",1.0
+"('zf', 'zhang')","('zero',)",1.0
+"('worsening',)","('yet', 'worcester')",1.0
+"('worcester',)","('worsening', 'yet')",1.0
+"('yet',)","('worsening', 'worcester')",1.0
+"('worsening', 'worcester')","('yet',)",1.0
+"('worsening', 'yet')","('worcester',)",1.0
+"('yet', 'worcester')","('worsening',)",1.0
+"('zero',)","('zf', 'z')",1.0
+"('zf',)","('zero', 'z')",1.0
+"('z',)","('zero', 'zf')",1.0
+"('zero', 'zf')","('z',)",1.0
+"('zero', 'z')","('zf',)",1.0
+"('zf', 'z')","('zero',)",1.0
+"('wiq',)","('worsening', 'women')",1.0
+"('women',)","('wiq', 'worsening')",1.0
+"('worsening',)","('wiq', 'women')",1.0
+"('wiq', 'women')","('worsening',)",1.0
+"('wiq', 'worsening')","('women',)",1.0
+"('worsening', 'women')","('wiq',)",1.0
+"('wiq',)","('worcester', 'women')",1.0
+"('worcester',)","('wiq', 'women')",1.0
+"('women',)","('wiq', 'worcester')",1.0
+"('wiq', 'worcester')","('women',)",1.0
+"('wiq', 'women')","('worcester',)",1.0
+"('worcester', 'women')","('wiq',)",1.0
+"('wiq',)","('yet', 'worcester')",1.0
+"('worcester',)","('wiq', 'yet')",1.0
+"('yet',)","('wiq', 'worcester')",1.0
+"('wiq', 'worcester')","('yet',)",1.0
+"('wiq', 'yet')","('worcester',)",1.0
+"('yet', 'worcester')","('wiq',)",1.0
+"('wiq',)","('worsening', 'yet')",1.0
+"('worsening',)","('wiq', 'yet')",1.0
+"('yet',)","('wiq', 'worsening')",1.0
+"('wiq', 'worsening')","('yet',)",1.0
+"('wiq', 'yet')","('worsening',)",1.0
+"('worsening', 'yet')","('wiq',)",1.0
+"('zf',)","('z', 'zhang')",1.0
+"('z',)","('zf', 'zhang')",1.0
+"('zhang',)","('zf', 'z')",1.0
+"('zf', 'z')","('zhang',)",1.0
+"('zf', 'zhang')","('z',)",1.0
+"('z', 'zhang')","('zf',)",1.0
+"('wiq',)","('worsening', 'worcester')",1.0
+"('worcester',)","('wiq', 'worsening')",1.0
+"('worsening',)","('wiq', 'worcester')",1.0
+"('wiq', 'worcester')","('worsening',)",1.0
+"('wiq', 'worsening')","('worcester',)",1.0
+"('worsening', 'worcester')","('wiq',)",1.0
+"('worsening',)","('wiq', 'worcester', 'yet')",1.0
+"('worcester',)","('worsening', 'wiq', 'yet')",1.0
+"('wiq',)","('worsening', 'worcester', 'yet')",1.0
+"('yet',)","('worsening', 'worcester', 'wiq')",1.0
+"('worsening', 'worcester')","('wiq', 'yet')",1.0
+"('worsening', 'wiq')","('yet', 'worcester')",1.0
+"('worsening', 'yet')","('wiq', 'worcester')",1.0
+"('wiq', 'worcester')","('worsening', 'yet')",1.0
+"('yet', 'worcester')","('worsening', 'wiq')",1.0
+"('wiq', 'yet')","('worsening', 'worcester')",1.0
+"('worsening', 'worcester', 'wiq')","('yet',)",1.0
+"('worsening', 'worcester', 'yet')","('wiq',)",1.0
+"('worsening', 'wiq', 'yet')","('worcester',)",1.0
+"('wiq', 'worcester', 'yet')","('worsening',)",1.0
+"('worsening',)","('wiq', 'worcester', 'women')",1.0
+"('worcester',)","('worsening', 'women', 'wiq')",1.0
+"('wiq',)","('worsening', 'worcester', 'women')",1.0
+"('women',)","('worsening', 'worcester', 'wiq')",1.0
+"('worsening', 'worcester')","('wiq', 'women')",1.0
+"('worsening', 'wiq')","('worcester', 'women')",1.0
+"('worsening', 'women')","('wiq', 'worcester')",1.0
+"('wiq', 'worcester')","('worsening', 'women')",1.0
+"('worcester', 'women')","('worsening', 'wiq')",1.0
+"('wiq', 'women')","('worsening', 'worcester')",1.0
+"('worsening', 'worcester', 'wiq')","('women',)",1.0
+"('worsening', 'worcester', 'women')","('wiq',)",1.0
+"('worsening', 'women', 'wiq')","('worcester',)",1.0
+"('wiq', 'worcester', 'women')","('worsening',)",1.0
+"('wiq',)","('yet', 'worcester', 'women')",1.0
+"('worcester',)","('wiq', 'women', 'yet')",1.0
+"('women',)","('wiq', 'worcester', 'yet')",1.0
+"('yet',)","('wiq', 'worcester', 'women')",1.0
+"('wiq', 'worcester')","('yet', 'women')",1.0
+"('wiq', 'women')","('yet', 'worcester')",1.0
+"('wiq', 'yet')","('worcester', 'women')",1.0
+"('worcester', 'women')","('wiq', 'yet')",1.0
+"('yet', 'worcester')","('wiq', 'women')",1.0
+"('yet', 'women')","('wiq', 'worcester')",1.0
+"('wiq', 'worcester', 'women')","('yet',)",1.0
+"('wiq', 'worcester', 'yet')","('women',)",1.0
+"('wiq', 'women', 'yet')","('worcester',)",1.0
+"('yet', 'worcester', 'women')","('wiq',)",1.0
+"('worsening',)","('wiq', 'women', 'yet')",1.0
+"('wiq',)","('worsening', 'women', 'yet')",1.0
+"('women',)","('worsening', 'wiq', 'yet')",1.0
+"('yet',)","('worsening', 'women', 'wiq')",1.0
+"('worsening', 'wiq')","('yet', 'women')",1.0
+"('worsening', 'women')","('wiq', 'yet')",1.0
+"('worsening', 'yet')","('wiq', 'women')",1.0
+"('wiq', 'women')","('worsening', 'yet')",1.0
+"('wiq', 'yet')","('worsening', 'women')",1.0
+"('yet', 'women')","('worsening', 'wiq')",1.0
+"('worsening', 'women', 'wiq')","('yet',)",1.0
+"('worsening', 'wiq', 'yet')","('women',)",1.0
+"('worsening', 'women', 'yet')","('wiq',)",1.0
+"('wiq', 'women', 'yet')","('worsening',)",1.0
+"('zero',)","('zf', 'z', 'zhang')",1.0
+"('zf',)","('zero', 'z', 'zhang')",1.0
+"('z',)","('zero', 'zf', 'zhang')",1.0
+"('zhang',)","('zero', 'zf', 'z')",1.0
+"('zero', 'zf')","('z', 'zhang')",1.0
+"('zero', 'z')","('zf', 'zhang')",1.0
+"('zero', 'zhang')","('zf', 'z')",1.0
+"('zf', 'z')","('zero', 'zhang')",1.0
+"('zf', 'zhang')","('zero', 'z')",1.0
+"('z', 'zhang')","('zero', 'zf')",1.0
+"('zero', 'zf', 'z')","('zhang',)",1.0
+"('zero', 'zf', 'zhang')","('z',)",1.0
+"('zero', 'z', 'zhang')","('zf',)",1.0
+"('zf', 'z', 'zhang')","('zero',)",1.0
+"('worsening',)","('yet', 'worcester', 'women')",1.0
+"('worcester',)","('worsening', 'women', 'yet')",1.0
+"('women',)","('worsening', 'worcester', 'yet')",1.0
+"('yet',)","('worsening', 'worcester', 'women')",1.0
+"('worsening', 'worcester')","('yet', 'women')",1.0
+"('worsening', 'women')","('yet', 'worcester')",1.0
+"('worsening', 'yet')","('worcester', 'women')",1.0
+"('worcester', 'women')","('worsening', 'yet')",1.0
+"('yet', 'worcester')","('worsening', 'women')",1.0
+"('yet', 'women')","('worsening', 'worcester')",1.0
+"('worsening', 'worcester', 'women')","('yet',)",1.0
+"('worsening', 'worcester', 'yet')","('women',)",1.0
+"('worsening', 'women', 'yet')","('worcester',)",1.0
+"('yet', 'worcester', 'women')","('worsening',)",1.0
+"('women',)","('worsening', 'worcester', 'wiq', 'yet')",1.0
+"('worsening',)","('wiq', 'worcester', 'women', 'yet')",1.0
+"('worcester',)","('worsening', 'women', 'wiq', 'yet')",1.0
+"('wiq',)","('worsening', 'worcester', 'women', 'yet')",1.0
+"('yet',)","('worsening', 'worcester', 'women', 'wiq')",1.0
+"('worsening', 'women')","('wiq', 'worcester', 'yet')",1.0
+"('worcester', 'women')","('worsening', 'wiq', 'yet')",1.0
+"('wiq', 'women')","('worsening', 'worcester', 'yet')",1.0
+"('yet', 'women')","('worsening', 'worcester', 'wiq')",1.0
+"('worsening', 'worcester')","('wiq', 'women', 'yet')",1.0
+"('worsening', 'wiq')","('yet', 'worcester', 'women')",1.0
+"('worsening', 'yet')","('wiq', 'worcester', 'women')",1.0
+"('wiq', 'worcester')","('worsening', 'women', 'yet')",1.0
+"('yet', 'worcester')","('worsening', 'women', 'wiq')",1.0
+"('wiq', 'yet')","('worsening', 'worcester', 'women')",1.0
+"('worsening', 'worcester', 'women')","('wiq', 'yet')",1.0
+"('worsening', 'women', 'wiq')","('yet', 'worcester')",1.0
+"('worsening', 'women', 'yet')","('wiq', 'worcester')",1.0
+"('wiq', 'worcester', 'women')","('worsening', 'yet')",1.0
+"('yet', 'worcester', 'women')","('worsening', 'wiq')",1.0
+"('wiq', 'women', 'yet')","('worsening', 'worcester')",1.0
+"('worsening', 'worcester', 'wiq')","('yet', 'women')",1.0
+"('worsening', 'worcester', 'yet')","('wiq', 'women')",1.0
+"('worsening', 'wiq', 'yet')","('worcester', 'women')",1.0
+"('wiq', 'worcester', 'yet')","('worsening', 'women')",1.0
+"('worsening', 'worcester', 'women', 'wiq')","('yet',)",1.0
+"('worsening', 'worcester', 'women', 'yet')","('wiq',)",1.0
+"('worsening', 'women', 'wiq', 'yet')","('worcester',)",1.0
+"('wiq', 'worcester', 'women', 'yet')","('worsening',)",1.0
+"('worsening', 'worcester', 'wiq', 'yet')","('women',)",1.0
